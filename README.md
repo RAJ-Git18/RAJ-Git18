@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Myself Raj Simkhada</h1>
-<h3 align="center">A Backend Enthusiast</h3>
+<!-- <h3 align="center">A Backend Enthusiast</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-git18&label=Profile%20views&color=0e75b6&style=flat" alt="raj-git18" /> </p>
 
